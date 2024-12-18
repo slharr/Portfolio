@@ -1,5 +1,5 @@
 # Stephen L Harr Sr.
-# Software Engineer
+# Software Engineer, Developer, Educator
 # Welcome to my GitHub portfolio!
 
 ### Technical Skills: Python, SQL, JAVA, HTML, C#, C++, Swift, Kotlin
@@ -17,7 +17,7 @@
 ### Projects
 Here are some of my projects:
 
-- [MMO Characters](https://github.com/slharr/mmo_characters) - Explore different MMO characters and their attributes.
+- [MMO Characters](https://github.com/slharr/mmo_characters) - Explore different MMO characters and their attributes within a database.
 - [VA Disability Calculator App](https://github.com/slharr/VA-Disability-Calculator-App) - A tool to calculate VA disability benefits.
 - [VA Disability Calculator](https://github.com/slharr/VA_Disability_Calculator) - Another version of the VA Disability Calculator with additional features.
 - [Blackjack Game](https://github.com/slharr/Blackjack-Game) - A classic Blackjack game developed using Python.
