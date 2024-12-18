@@ -1,4 +1,6 @@
+# Stephen L Harr Sr.
 # Software Engineer
+# Welcome to my GitHub portfolio!
 
 ### Technical Skills: Python, SQL, JAVA, HTML, C#, C++, Swift, Kotlin
 
@@ -13,3 +15,6 @@
 
 
 ### Projects
+
+Check out my YouTube channel for more awesome content: [Deelite Studios YouTube Channel](https://www.youtube.com/@deelitestudios)
+
