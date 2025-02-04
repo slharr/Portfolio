@@ -1,7 +1,6 @@
 # Stephen L Harr Sr.
 # Software Engineer, Developer, Educator
 # Welcome to my GitHub portfolio!
-You can view my resume here.
 
 ### Technical Skills: Python, SQL, JAVA, HTML, C#, C++, Swift, Kotlin
 
