@@ -2,6 +2,9 @@
 # Software Engineer, Developer, Educator
 # Welcome to my GitHub portfolio!
 
+# My Resume
+You can view my resume here.
+
 ### Technical Skills: Python, SQL, JAVA, HTML, C#, C++, Swift, Kotlin
 
 ### Education
